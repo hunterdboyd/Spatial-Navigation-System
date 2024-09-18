@@ -1,0 +1,1 @@
+Run this in Keil MDK IDE for the microcontroller aspect of the project.
